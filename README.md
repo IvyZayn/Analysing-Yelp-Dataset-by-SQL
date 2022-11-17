@@ -1,5 +1,5 @@
 # Data-Scientist-Role-Play-SQL-Cousera
-The repository shows the project I completed in a course named SQL For Data Science on Coursera. 
+The repository shows the project I completed in the course named 'SQL For Data Science' on Coursera. 
 Course link: https://www.coursera.org/learn/sql-for-data-science
 
 The Project covers two parts.
